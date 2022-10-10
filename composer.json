@@ -1,5 +1,5 @@
 {
-    "name": "test/module-helloworld",
+    "name": "ptest/module-helloworld",
     "description": "",
 
     "type": "magento2-module",
@@ -19,7 +19,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "Test\\HelloWorld\\": ""
+            "Ptest\\HelloWorld\\": ""
         }
     }
 
